@@ -1,6 +1,6 @@
 # Byte Me! – Java Restaurant Ordering System
 
-**Byte Me!** is a GUI-based restaurant ordering system developed in Java as part of the *Advanced Programming* course at IIIT-Delhi. It enhances an earlier CLI-based version by integrating a graphical user interface using JavaFX, efficient file handling through Java Streams, and unit testing with JUnit.
+**Byte Me!** is a full-featured restaurant ordering system developed in Java as part of the *Advanced Programming* course at IIIT-Delhi. The system provides separate interfaces for customers and administrators, supporting end-to-end functionality such as browsing the menu, placing and tracking orders, managing inventory, prioritizing VIP customers, and generating daily reports. It is built with a graphical user interface using JavaFX, stream-based file handling for efficient I/O, and includes unit testing with JUnit to ensure code reliability.
 
 ---
 
