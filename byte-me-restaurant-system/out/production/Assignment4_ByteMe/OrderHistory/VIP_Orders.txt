@@ -1,0 +1,15 @@
+Order ID: 2
+Customer Name: dk
+Customer Mobile: 
+Order Total: 105
+Order Status: Preparing
+Special Request: 0
+Request Status: NONE
+Refund Initiated: false
+Delivery Address: gg
+Payment Method: p
+Order Date: 2024-11-27
+Order Cart:
+  - Banana x 1
+  - orange x 5
+---

@@ -1,0 +1,5 @@
+Apple,100,Fruit,Available
+Banana,50,Fruit,Available
+Maggi,20,Snacks,Available
+Crax,15,Chips,Not Available
+Kurkure,25,Chips,Available

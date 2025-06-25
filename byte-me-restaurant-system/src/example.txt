@@ -1,0 +1,37 @@
+Apple,100,Fruit,Available
+Banana,50,Fruit,Available
+Maggi,20,Snacks,Available
+Crax,15,Chips,Not Available
+Kurkure,25,Chips,Available
+
+
+Order ID: 5
+Status: Pending
+Total: 300
+Items Ordered:
+Apple x 3
+----------------------------------------
+Order ID: 7
+Status: Pending
+Total: 285
+Items Ordered:
+Banana x 2
+Maggi x 3
+Kurkure x 1
+Apple x 1
+----------------------------------------
+Order ID: 1
+Status: Pending
+Total: 125
+Items Ordered:
+Banana x 2
+Kurkure x 1
+----------------------------------------
+Order ID: 3
+Status: Pending
+Total: 310
+Items Ordered:
+Maggi x 3
+Kurkure x 2
+Apple x 2
+----------------------------------------

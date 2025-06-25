@@ -1,0 +1,14 @@
+Order ID: 1
+Customer Name: ak
+Customer Mobile: 991
+Order Total: 300
+Order Status: Cancelled
+Special Request: 0
+Request Status: NONE
+Refund Initiated: false
+Delivery Address: iiit
+Payment Method: pay
+Order Date: 2024-11-27
+Order Cart:
+  - Apple x 3
+---
